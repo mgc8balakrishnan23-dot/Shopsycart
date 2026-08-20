@@ -1,0 +1,13 @@
+.dark {
+  min-height: 100vh;
+  background-color: #121212;
+  color: white;
+  transition: 0.4s;
+}
+
+.light {
+  min-height: 100vh;
+  background-color: #f5f7fb;
+  color: black;
+  transition: 0.4s;
+}
